@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>VIP</title>
+  <title>VIPZST的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vipzst.xyz/"/>
-  <updated>2021-07-16T12:06:09.401Z</updated>
+  <updated>2021-09-04T11:22:27.341Z</updated>
   <id>http://vipzst.xyz/</id>
   
   <author>
@@ -17,21 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>webpack</title>
-    <link href="http://vipzst.xyz/2021/07/16/webpack/"/>
-    <id>http://vipzst.xyz/2021/07/16/webpack/</id>
-    <published>2021-07-16T12:05:18.000Z</published>
-    <updated>2021-07-16T12:06:09.401Z</updated>
+    <title>vscode设置gitBash作为命命令行</title>
+    <link href="http://vipzst.xyz/2021/09/04/vscode%E8%AE%BE%E7%BD%AEgitBash%E4%BD%9C%E4%B8%BA%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+    <id>http://vipzst.xyz/2021/09/04/vscode设置gitBash作为命令行/</id>
+    <published>2021-09-04T11:18:18.000Z</published>
+    <updated>2021-09-04T11:22:27.341Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>本博客持续修改与更新中，<a href="http://aizigao.xyz//" target="_blank" rel="noopener">点击这里查看最新的内容</a></strong></p><p>webpack.config.js</p>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">// 注意GitBash中间不能有空格</span><br><span class="line">&quot;git.ignoreWindowsGit27Warning&quot;: true,</span><br><span class="line">  &quot;terminal.integrated.profiles.windows&quot;: &#123;</span><br><span class="line">    &quot;GitBash&quot;: &#123;</span><br><span class="line">      &quot;path&quot;: &quot;E:\\DevInstall\\Git\\bin\\bash.exe&quot;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;,</span><br><span class="line"> &quot;terminal.integrated.defaultProfile.windows&quot;: &quot;GitBash&quot;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;strong&gt;本博客持续修改与更新中，&lt;a href=&quot;http://aizigao.xyz//&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击这里查看最新的内容&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;webpack.config.js&lt;/p&gt;
-
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class
       
     
     </summary>
