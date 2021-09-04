@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>VIP</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://vipzst.xyz/"/>
+  <updated>2021-07-16T12:06:09.401Z</updated>
+  <id>http://vipzst.xyz/</id>
+  
+  <author>
+    <name>vipzst</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>webpack</title>
+    <link href="http://vipzst.xyz/2021/07/16/webpack/"/>
+    <id>http://vipzst.xyz/2021/07/16/webpack/</id>
+    <published>2021-07-16T12:05:18.000Z</published>
+    <updated>2021-07-16T12:06:09.401Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>本博客持续修改与更新中，<a href="http://aizigao.xyz//" target="_blank" rel="noopener">点击这里查看最新的内容</a></strong></p><p>webpack.config.js</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;本博客持续修改与更新中，&lt;a href=&quot;http://aizigao.xyz//&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击这里查看最新的内容&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;webpack.config.js&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
